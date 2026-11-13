@@ -6,7 +6,7 @@ I like building real systems end to end, from the data model and the backend to 
 
 ## Selected projects
 
-- **[Aura Gros](https://aura-gros.vercel.app)**: bilingual (Arabic / French) wholesale e-commerce platform with an AI chat assistant and admin dashboard. Final-year project.
+- **[Aura Gros](https://aura-gros.vercel.app)**: bilingual (Arabic / French) wholesale e-commerce platform with an AI chat assistant and admin dashboard. Freelance project for a client.
   `React` `Express` `SQLite` `Claude API`
 - **[Student Organizer](https://studentweb-beryl.vercel.app)**: classes, seating plans, evaluations, timetables and PDF reports for teachers.
   `Next.js` `TypeScript` `PostgreSQL`
