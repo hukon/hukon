@@ -15,10 +15,10 @@ I like building real systems end to end, from the data model and the backend to 
 
 ## Tech
 
-**Languages:** TypeScript, JavaScript, Python, Java, PHP, C++, SQL
-**Web:** React, Next.js, Node.js / Express, Astro
-**Data:** PostgreSQL, SQLite, MySQL
-**Deployment:** Docker, Railway, Vercel
+- **Languages:** TypeScript, JavaScript, Python, Java, PHP, C++, SQL
+- **Web:** React, Next.js, Node.js / Express, Astro
+- **Data:** PostgreSQL, SQLite, MySQL
+- **Deployment:** Docker, Railway, Vercel
 
 ## Contact
 
